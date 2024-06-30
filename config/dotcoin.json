@@ -1,0 +1,42 @@
+[
+  {
+    "STT_ACCOUNT": "ACCCOUNT_1",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_2",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_3",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_4",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_5",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_6",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_7",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_8",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_9",
+    "DATA": ["nhập_authorization","nhập_id"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_10",
+    "DATA": ["nhập_authorization","nhập_id"]
+  }
+]
