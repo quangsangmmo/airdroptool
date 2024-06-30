@@ -1,11 +1,11 @@
 [
   {
     "STT_ACCOUNT": "ACCCOUNT_1",
-    "AUTHORIZATION": ""
+    "AUTHORIZATION": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjU1OTY2OTU1NjIsImlhdCI6MTcxNzU5OTMwNCwiZXhwIjoxODQzNzQzMzA0fQ.F4teN3C1cR8cgWzN-av3ZBshpY0lwJbNvitVwFK2Jz8"
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_2",
-    "AUTHORIZATION": ""
+    "AUTHORIZATION": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjYwODkxMTIzNjcsImlhdCI6MTcxNzUwNzcwMywiZXhwIjoxODQzNjUxNzAzfQ.Qazow4uUcUHU9L51C8LrPlBTCIWhmecqfneZwvrYutU"
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_3",

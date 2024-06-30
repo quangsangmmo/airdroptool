@@ -1,42 +1,42 @@
 [
   {
     "STT_ACCOUNT": "ACCCOUNT_1",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo1NTk2Njk1NTYyLCJpYXQiOjE3MTgxNzg1NDZ9.tg4QC7ulI2l5UsHoi9Ln2Ijoa4WyWsR3Z-MJXkWDHP4","5596695562"]
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_2",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo2MDg5MTEyMzY3LCJpYXQiOjE3MTc3NjU4NTZ9.JW9wyPGtjmhRgZf5vcoyVtf570mYBsDn8h7N5PzuHkA","6089112367"]
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_3",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_4",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_5",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_6",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_7",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_8",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_9",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_10",
-    "DATA": ["nhập_authorization","nhập_id"]
+    "DATA": ""
   }
 ]

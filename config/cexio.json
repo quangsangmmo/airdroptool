@@ -1,11 +1,11 @@
 [
   {
     "STT_ACCOUNT": "ACCCOUNT_1",
-    "DATA": ""
+    "DATA": {"devAuthData":5596695562,"authData":"query_id=AAEKzJZNAgAAAArMlk2j3jMu&user=%7B%22id%22%3A5596695562%2C%22first_name%22%3A%22BigBoss%20-%20%C4%90%E1%BA%A1i%20l%C3%BD%20ph%C3%A1t%20code%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22dailybigboss2538%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717317282&hash=605c44af88a1e2013c680a41b3be427e54d1506e15910bfca4da0bee12bcdddd","platform":"android","data":{}}
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_2",
-    "DATA": ""
+    "DATA": {"devAuthData":6089112367,"authData":"query_id=AAEve_BqAgAAAC978Gq-6n4U&user=%7B%22id%22%3A6089112367%2C%22first_name%22%3A%22Nguy%E1%BB%85n%20Quang%20S%C3%A1ng%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22quangsangmmo%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717317676&hash=5d7c9061cf8a64d91981693d5c0384ede2c7cabb4e95fb2d159c1aa20779f356","data":{}}
   },
   {
     "STT_ACCOUNT": "ACCCOUNT_3",
