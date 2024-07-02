@@ -10,3 +10,4 @@ v_tapswap = "5.0.0"
 v_quackquack = "5.0.0"
 v_memefi = "5.0.0"
 v_yescoin = "5.0.0"
+print('test')
