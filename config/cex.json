@@ -1,0 +1,42 @@
+[
+  {
+    "STT_ACCOUNT": "ACCCOUNT_1",
+    "DATA": {"devAuthData":5596695562,"authData":"query_id=AAEKzJZNAgAAAArMlk2j3jMu&user=%7B%22id%22%3A5596695562%2C%22first_name%22%3A%22BigBoss%20-%20%C4%90%E1%BA%A1i%20l%C3%BD%20ph%C3%A1t%20code%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22dailybigboss2538%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717317282&hash=605c44af88a1e2013c680a41b3be427e54d1506e15910bfca4da0bee12bcdddd","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_2",
+    "DATA": {"devAuthData":6089112367,"authData":"query_id=AAEve_BqAgAAAC978Gq-6n4U&user=%7B%22id%22%3A6089112367%2C%22first_name%22%3A%22Nguy%E1%BB%85n%20Quang%20S%C3%A1ng%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22quangsangmmo%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717317676&hash=5d7c9061cf8a64d91981693d5c0384ede2c7cabb4e95fb2d159c1aa20779f356","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_3",
+    "DATA": {"devAuthData":1256256055,"authData":"query_id=AAE38uBKAAAAADfy4ErYyvaL&user=%7B%22id%22%3A1256256055%2C%22first_name%22%3A%22S%C3%A1ng%20trade%20kh%C3%B4ng%20nhi%E1%BB%81u%21%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Sang1900%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717317786&hash=14caeb7ee6c323ebbeac6ef6c5e455f34c3c05f14ca4b4cdf0908e19186cec5c","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_4",
+    "DATA": {"devAuthData":932003822,"authData":"query_id=AAHuP403AAAAAO4_jTf3DirE&user=%7B%22id%22%3A932003822%2C%22first_name%22%3A%22Anubis%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Anubislaai%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717317954&hash=d2fc028e9cd93a73342b1dde2d92c9d430c58049696aa12ee1d5ae5803b5b60c","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_5",
+    "DATA": {"devAuthData":2037393692,"authData":"query_id=AAEcKXB5AAAAABwpcHlBmt0J&user=%7B%22id%22%3A2037393692%2C%22first_name%22%3A%22CSKH%20Kufun%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22CSKH_Kufunn%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717318153&hash=0ce0bffd634956daf36bb4b5b1f284b26d5b2d545fb299b99d2df77f4ff77faa","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_6",
+    "DATA": {"devAuthData":2043574722,"authData":"query_id=AAHCec55AAAAAMJ5znkbA2Xo&user=%7B%22id%22%3A2043574722%2C%22first_name%22%3A%22Anubis%22%2C%22last_name%22%3A%22Airdrop%22%2C%22username%22%3A%22AnubisAirdrop%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717318282&hash=3be2b4593a3349f94b74a7388bfbcfe22b4f6d36e592f3d3833dc1050ba95c6b","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_7",
+    "DATA": {"devAuthData":2033035479,"authData":"query_id=AAHXqC15AAAAANeoLXmrw5ZD&user=%7B%22id%22%3A2033035479%2C%22first_name%22%3A%22Top%201%20%C4%90%E1%BA%A1i%20L%C3%BD%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22top1daily%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717318387&hash=cf482860f32fb96f9836bc63c2ee60775800096f8cbe7e618dec6aa06b90b8ee","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_8",
+    "DATA": {"devAuthData":6719696384,"authData":"query_id=AAEAboYQAwAAAABuhhAHwR-S&user=%7B%22id%22%3A6719696384%2C%22first_name%22%3A%22Nguy%E1%BB%85n%20Mai%22%2C%22last_name%22%3A%22Ng%E1%BB%8Dc%22%2C%22username%22%3A%22maingoc9292%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717318476&hash=fa992c52b81b060d91bb267a04732e1d987c8687724829a7505846be5b33ecd4","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_9",
+    "DATA": {"devAuthData":6830211331,"authData":"query_id=AAEDwRwXAwAAAAPBHBfd5BW3&user=%7B%22id%22%3A6830211331%2C%22first_name%22%3A%22Tr%E1%BA%A7n%20Minh%22%2C%22last_name%22%3A%22Ng%E1%BB%8Dc%22%2C%22username%22%3A%22minhngoc8292%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717318579&hash=6b81ff547ae7f9aa1f0e0a24ce3946d8ae9031e0c0da01a05a1e4e76cabbbe6a","platform":"android","data":{}}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_10",
+    "DATA": "thay_thế_bằng_data"
+  }
+]
