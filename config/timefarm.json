@@ -1,0 +1,42 @@
+[
+  {
+    "STT_ACCOUNT": "ACCCOUNT_1",
+    "DATA": {"initData":"query_id=AAEKzJZNAgAAAArMlk0n7mNT&user=%7B%22id%22%3A5596695562%2C%22first_name%22%3A%22ANUBIS%20Oliver%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22dailybigboss2538%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1720006223&hash=18baac8bf8d7ef968da7384ae41f829409401f5e68c0a246a804a28ebca96d48","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_2",
+    "DATA": {"initData":"query_id=AAEve_BqAgAAAC978GrnCh90&user=%7B%22id%22%3A6089112367%2C%22first_name%22%3A%22Nguy%E1%BB%85n%20Quang%20S%C3%A1ng%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22quangsangmmo%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718165906&hash=9ee172aabe589bf31403cf5975ef2760760c4aaf5c4354f0bd688ff64e714158","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_3",
+    "DATA": {"initData":"query_id=AAE38uBKAAAAADfy4EoSS-oo&user=%7B%22id%22%3A1256256055%2C%22first_name%22%3A%22S%C3%A1ng%20trade%20kh%C3%B4ng%20nhi%E1%BB%81u%21%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Sang1900%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718179035&hash=503e06767b0c67ce79b7f07029fe77517f70c51cda81e4cb379a65b658adc145","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_4",
+    "DATA": {"initData":"query_id=AAHuP403AAAAAO4_jTdhyqLA&user=%7B%22id%22%3A932003822%2C%22first_name%22%3A%22Anubis%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Anubislaai%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718179621&hash=613b19b07793e351f62fd2a05c4672d82ebd85013eecb8e7c64bf47a2f270347","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_5",
+    "DATA": {"initData":"query_id=AAEcKXB5AAAAABwpcHlCrT1N&user=%7B%22id%22%3A2037393692%2C%22first_name%22%3A%22CSKH%20Kufun%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22CSKH_Kufunn%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718180447&hash=07aaee3ae5c6e40f6746aae20d5565c7d90e3113a3f73d225d66d7ae30164118","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_6",
+    "DATA": {"initData":"query_id=AAHCec55AAAAAMJ5znlMpXLT&user=%7B%22id%22%3A2043574722%2C%22first_name%22%3A%22Anubis%22%2C%22last_name%22%3A%22Airdrop%22%2C%22username%22%3A%22AnubisAirdrop%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718180887&hash=9106d4182c27005ba2dc2331089fbe5718b2f8c75fd7f523b73a72a0b6be1bd3","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_7",
+    "DATA": {"initData":"query_id=AAHXqC15AAAAANeoLXnoSdPO&user=%7B%22id%22%3A2033035479%2C%22first_name%22%3A%22Anubis%20MMO%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22top1daily%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718181111&hash=f10f6e08c8cb6a996273fd2d2e63e25cd491a1321181c38afa67503edecf5b6b","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_8",
+    "DATA": {"initData":"query_id=AAEAboYQAwAAAABuhhB8I1ke&user=%7B%22id%22%3A6719696384%2C%22first_name%22%3A%22Nguy%E1%BB%85n%20Mai%22%2C%22last_name%22%3A%22Ng%E1%BB%8Dc%22%2C%22username%22%3A%22maingoc9292%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718181251&hash=06101f66f9c4b744798ef517c45876d0e984453e13c04d80aa6d61a492a4ead2","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_9",
+    "DATA": {"initData":"query_id=AAEDwRwXAwAAAAPBHBd_egjm&user=%7B%22id%22%3A6830211331%2C%22first_name%22%3A%22Tr%E1%BA%A7n%20Minh%22%2C%22last_name%22%3A%22Ng%E1%BB%8Dc%22%2C%22username%22%3A%22minhngoc8292%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718181443&hash=5003cac8b930ed4f6ab6ef7097326f1bb09ebdf12e3fc0a5300f68602895314c","platform":"android"}
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_10",
+    "DATA": "thay_thế_bằng_data"
+  }
+]

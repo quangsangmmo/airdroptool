@@ -1,0 +1,42 @@
+[
+  {
+    "STT_ACCOUNT": "ACCCOUNT_1",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo1NTk2Njk1NTYyLCJpYXQiOjE3MTgxNzg1NDZ9.tg4QC7ulI2l5UsHoi9Ln2Ijoa4WyWsR3Z-MJXkWDHP4","5596695562"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_2",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo2MDg5MTEyMzY3LCJpYXQiOjE3MTc3NjU4NTZ9.JW9wyPGtjmhRgZf5vcoyVtf570mYBsDn8h7N5PzuHkA","6089112367"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_3",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjoxMjU2MjU2MDU1LCJpYXQiOjE3MTgxNzkwOTh9.v_tljxJZCpllqClPkFPN8bUSxgL6Kigc_o1AXZ7PdZw","1256256055"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_4",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo5MzIwMDM4MjIsImlhdCI6MTcxODE3OTY5M30.uJkzxQaOxCVlwe2ncBkBee6x8dn0t9xizWXznMj4VxU","932003822"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_5",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjoyMDM3MzkzNjkyLCJpYXQiOjE3MTgxODA2OTB9.d2rIkXLRaYkACN7QPQ6qkl_Tusy64kwom4K_Jqs6SE4","2037393692"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_6",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjoyMDQzNTc0NzIyLCJpYXQiOjE3MTgxODA5ODN9.ELXh6y9dVLjtqeQXBh_t5UqnDYJ-8BLFjZpchRmzTvk","2043574722"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_7",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjoyMDMzMDM1NDc5LCJpYXQiOjE3MTgxODExNjB9.NQq3rlGRha_iJX3usU-9VKw5LcW4XfYvI5y4ZQlai1c","2033035479"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_8",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo2NzE5Njk2Mzg0LCJpYXQiOjE3MTgxODEyOTh9._NRC3hNBEdtEjFbai0AqdnbezqnQ-C0NAdg2lCVko9E","6719696384"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_9",
+    "DATA": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWxlZ3JhbUlkIjo2ODMwMjExMzMxLCJpYXQiOjE3MTgxODE0ODN9.BQcPoPNzldajV_AzT_NUtESG76MHP_pWLU3124FLxFU","6830211331"]
+  },
+  {
+    "STT_ACCOUNT": "ACCCOUNT_10",
+    "DATA": ["thay_thế_bằng_authorization","thay_thế_bằng_x-telegram-user-id"]
+  }
+]
