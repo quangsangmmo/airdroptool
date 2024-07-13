@@ -1,48 +1,50 @@
+//Nhập proxy có định dạng IP:PORT: USERNAME:PASSWORD vào phần "proxy" khi mua về thường có sẵn định dạng như vậy ae nhé
+//Nhập loại proxy vào phần "type_proxy" mặc định mình để là http của ae nào là socks5 thì sửa http thành socks5 nhé
+//Ae vào trang https://iplogger.org/useragents/ để random user-agent và nhập vào để tăng độ an toàn khi chạy tool nhé
 {
   "ACCCOUNT_1": {
-    "proxy": "netvtproxy.zapto.org:11220:yCadcx:yCadcx",
+    "proxy": "",
     "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0"
+    "user-agent": ""
   },
   "ACCCOUNT_2": {
-    "proxy": "netproxy.zapto.org:44925:VUWVR:VUWVR",
-    "type_proxy": "socks5",
-    "user-agent": "Mozilla/5.0 (Linux; Android 8.1.0; C5 2019 Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.64 Mobile Safari/537.36"
+    "proxy": "",
+    "type_proxy": "http",
+    "user-agent": ""
   },
   "ACCCOUNT_3": {
-    "proxy": "netvtproxy.zapto.org:18343:UUjlnf:UUjlnf",
+    "proxy": "",
     "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
+    "user-agent": ""
   },
   "ACCCOUNT_4": {
-    "proxy": "netvtproxy.zapto.org:39896:rBm6z:rBm6z",
-    "type_proxy": "socks5",
-    "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36"
+    "proxy": "",
+    "type_proxy": "http",
+    "user-agent": ""
   },
   "ACCCOUNT_5": {
-    "proxy": "netvtproxy.zapto.org:23231:bY3Un:bY3Un",
-    "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0 Trailer/92.3.3357.27"
+    "proxy": "",
+    "user-agent": ""
   },
   "ACCCOUNT_6": {
-    "proxy": "netvtproxy.zapto.org:25535:x3aVZ:x3aVZ",
+    "proxy": "",
     "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    "user-agent": ""
   },
   "ACCCOUNT_7": {
-    "proxy": "netvtproxy.zapto.org:36036:0B5JW:0B5JW",
+    "proxy": "",
     "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
+    "user-agent": ""
   },
   "ACCCOUNT_8": {
-    "proxy": "netvtproxy.zapto.org:34404:HKOTM:HKOTM",
+    "proxy": "",
     "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/164.0"
+    "user-agent": ""
   },
   "ACCCOUNT_9": {
     "proxy": "",
     "type_proxy": "http",
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; 2201117TG Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36"
+    "user-agent": ""
   },
   "ACCCOUNT_10": {
     "proxy": "",
